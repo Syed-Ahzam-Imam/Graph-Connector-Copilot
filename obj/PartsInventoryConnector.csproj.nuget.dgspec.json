@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ahzam.Imam\\Desktop\\WORK\\WORK_MAZIK\\Graph Connector Copilot\\PartsInventoryConnector\\PartsInventoryConnector.csproj": {}
+    "C:\\Users\\Ahzam.Imam\\Desktop\\WORK\\WORK_MAZIK\\Graph Connector Copilot\\PartsInventoryConnector.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ahzam.Imam\\Desktop\\WORK\\WORK_MAZIK\\Graph Connector Copilot\\PartsInventoryConnector\\PartsInventoryConnector.csproj": {
+    "C:\\Users\\Ahzam.Imam\\Desktop\\WORK\\WORK_MAZIK\\Graph Connector Copilot\\PartsInventoryConnector.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ahzam.Imam\\Desktop\\WORK\\WORK_MAZIK\\Graph Connector Copilot\\PartsInventoryConnector\\PartsInventoryConnector.csproj",
+        "projectUniqueName": "C:\\Users\\Ahzam.Imam\\Desktop\\WORK\\WORK_MAZIK\\Graph Connector Copilot\\PartsInventoryConnector.csproj",
         "projectName": "PartsInventoryConnector",
-        "projectPath": "C:\\Users\\Ahzam.Imam\\Desktop\\WORK\\WORK_MAZIK\\Graph Connector Copilot\\PartsInventoryConnector\\PartsInventoryConnector.csproj",
+        "projectPath": "C:\\Users\\Ahzam.Imam\\Desktop\\WORK\\WORK_MAZIK\\Graph Connector Copilot\\PartsInventoryConnector.csproj",
         "packagesPath": "C:\\Users\\Ahzam.Imam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ahzam.Imam\\Desktop\\WORK\\WORK_MAZIK\\Graph Connector Copilot\\PartsInventoryConnector\\obj\\",
+        "outputPath": "C:\\Users\\Ahzam.Imam\\Desktop\\WORK\\WORK_MAZIK\\Graph Connector Copilot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ahzam.Imam\\AppData\\Roaming\\NuGet\\NuGet.Config"

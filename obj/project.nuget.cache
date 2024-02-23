@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3UTiPzF40I3pk9AkdI6OFGMFqVRWDxFamnP8KU7dqmbCmN61MDwREAlMHL9Ma9LYoJk03y07/aeFBmSbjiqxVQ==",
+  "dgSpecHash": "daoGwbALXkyd64jvsgUJxY01NOZExulwKCIZYLJrDeWLHJ13MS/LBnGTphZXSUeFQ2OUOiTH+/upKzjzD1F/Zw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ahzam.Imam\\Desktop\\WORK\\WORK_MAZIK\\Graph Connector Copilot\\PartsInventoryConnector\\PartsInventoryConnector.csproj",
+  "projectFilePath": "C:\\Users\\Ahzam.Imam\\Desktop\\WORK\\WORK_MAZIK\\Graph Connector Copilot\\PartsInventoryConnector.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ahzam.Imam\\.nuget\\packages\\azure.core\\1.37.0\\azure.core.1.37.0.nupkg.sha512",
     "C:\\Users\\Ahzam.Imam\\.nuget\\packages\\azure.identity\\1.10.4\\azure.identity.1.10.4.nupkg.sha512",
