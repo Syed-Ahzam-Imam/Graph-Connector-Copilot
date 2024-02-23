@@ -1,0 +1,14 @@
+C:\Users\Ahzam.Imam\Desktop\WORK\WORK_MAZIK\Graph Connector Copilot\PartsInventoryConnector\bin\Debug\net8.0\PartsInventoryConnector.exe
+C:\Users\Ahzam.Imam\Desktop\WORK\WORK_MAZIK\Graph Connector Copilot\PartsInventoryConnector\bin\Debug\net8.0\PartsInventoryConnector.deps.json
+C:\Users\Ahzam.Imam\Desktop\WORK\WORK_MAZIK\Graph Connector Copilot\PartsInventoryConnector\bin\Debug\net8.0\PartsInventoryConnector.runtimeconfig.json
+C:\Users\Ahzam.Imam\Desktop\WORK\WORK_MAZIK\Graph Connector Copilot\PartsInventoryConnector\bin\Debug\net8.0\PartsInventoryConnector.dll
+C:\Users\Ahzam.Imam\Desktop\WORK\WORK_MAZIK\Graph Connector Copilot\PartsInventoryConnector\bin\Debug\net8.0\PartsInventoryConnector.pdb
+C:\Users\Ahzam.Imam\Desktop\WORK\WORK_MAZIK\Graph Connector Copilot\PartsInventoryConnector\obj\Debug\net8.0\PartsInventoryConnector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahzam.Imam\Desktop\WORK\WORK_MAZIK\Graph Connector Copilot\PartsInventoryConnector\obj\Debug\net8.0\PartsInventoryConnector.AssemblyInfoInputs.cache
+C:\Users\Ahzam.Imam\Desktop\WORK\WORK_MAZIK\Graph Connector Copilot\PartsInventoryConnector\obj\Debug\net8.0\PartsInventoryConnector.AssemblyInfo.cs
+C:\Users\Ahzam.Imam\Desktop\WORK\WORK_MAZIK\Graph Connector Copilot\PartsInventoryConnector\obj\Debug\net8.0\PartsInventoryConnector.csproj.CoreCompileInputs.cache
+C:\Users\Ahzam.Imam\Desktop\WORK\WORK_MAZIK\Graph Connector Copilot\PartsInventoryConnector\obj\Debug\net8.0\PartsInventoryConnector.dll
+C:\Users\Ahzam.Imam\Desktop\WORK\WORK_MAZIK\Graph Connector Copilot\PartsInventoryConnector\obj\Debug\net8.0\refint\PartsInventoryConnector.dll
+C:\Users\Ahzam.Imam\Desktop\WORK\WORK_MAZIK\Graph Connector Copilot\PartsInventoryConnector\obj\Debug\net8.0\PartsInventoryConnector.pdb
+C:\Users\Ahzam.Imam\Desktop\WORK\WORK_MAZIK\Graph Connector Copilot\PartsInventoryConnector\obj\Debug\net8.0\PartsInventoryConnector.genruntimeconfig.cache
+C:\Users\Ahzam.Imam\Desktop\WORK\WORK_MAZIK\Graph Connector Copilot\PartsInventoryConnector\obj\Debug\net8.0\ref\PartsInventoryConnector.dll
