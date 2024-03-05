@@ -207,62 +207,6 @@ async Task<ExternalConnection?> SelectExistingConnectionAsync()
     }
 }
 
-async Task<ExternalConnection?> SelectExistingConnectionAsync()
-{
-    // TODO
-    Console.WriteLine("Getting existing connections...");
-    try
-    {
-        var response = await GraphHelper.GetExistingConnectionsAsync();
-        var connections = response?.Value ?? new List<ExternalConnection>();
-        if (connections.Count <= 0)
-        {
-            Console.WriteLine("No connections exist. Please create a new connection");
-            return null;
-        }
-
-        // Display connections
-        Console.WriteLine("Choose one of the following connections:");
-        var menuNumber = 1;
-        foreach (var connection in connections)
-        {
-            Console.WriteLine($"{menuNumber++}. {connection.Name}");
-        }
-
-        ExternalConnection? selection = null;
-
-        do
-        {
-            try
-            {
-                Console.Write("Selection: ");
-                var choice = int.Parse(Console.ReadLine() ?? string.Empty);
-                if (choice > 0 && choice <= connections.Count)
-                {
-                    selection = connections[choice - 1];
-                }
-                else
-                {
-                    Console.WriteLine("Invalid choice.");
-                }
-            }
-            catch (FormatException)
-            {
-                Console.WriteLine("Invalid choice.");
-            }
-        } while (selection == null);
-
-        return selection;
-    }
-    catch (ODataError odataError)
-    {
-        Console.WriteLine(
-            $"Error getting connections: {odataError.ResponseStatusCode}: {odataError.Error?.Code} {odataError.Error?.Message}"
-        );
-        return null;
-    }
-}
-
 async Task DeleteCurrentConnectionAsync(ExternalConnection? connection)
 {
     if (connection == null)
