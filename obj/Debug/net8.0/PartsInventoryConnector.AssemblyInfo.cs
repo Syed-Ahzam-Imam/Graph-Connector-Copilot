@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PartsInventoryConnector")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f76ba1185a4768eda6d08dc00de5d7ad676431f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a148b2ab9d7f3adc64d3409b11eae2447c5b4f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("PartsInventoryConnector")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PartsInventoryConnector")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

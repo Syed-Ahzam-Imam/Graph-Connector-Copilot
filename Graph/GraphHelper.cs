@@ -31,6 +31,7 @@ public static class GraphHelper
 
         // Create a Graph client using the credential
         graphClient = new GraphServiceClient(httpClient, authProvider);
+
     }
 
     public static async Task<ExternalConnection?> CreateConnectionAsync(
@@ -39,6 +40,7 @@ public static class GraphHelper
         string? description
     )
     {
+
         _ = graphClient ?? throw new MemberAccessException("graphClient is null");
 
         var newConnection = new ExternalConnection
